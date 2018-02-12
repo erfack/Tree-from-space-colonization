@@ -1,5 +1,5 @@
 # Utilizzo di Git e buone prassi
-### Questo file descrive come utilizzare Git esponendo i comandi base di Git e le buone prassi, per comandi avanzati vedere [git_commands.txt](../master/miscellaneous/git_commands.txt). <br />
+### Questo file descrive come utilizzare Git esponendo i comandi base di Git e le buone prassi, per comandi avanzati vedere [git_commands.txt](/git_commands.txt). <br />
 ## Comandi base 
 #### 1. Copia repo in locale:
     git clone https://github.com/erfack/Tree-from-space-colonization.git LOCAL_FOLDER
